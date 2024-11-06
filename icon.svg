@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+    <!-- Background -->
+    <rect width="128" height="128" fill="#ffffff" rx="14"/>
+    <!-- Letters -->
+    <text x="32" y="70" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#c6363c">A</text>
+    <text x="60" y="70" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#0c4076">А</text>
+    <!-- Border -->
+    <rect width="128" height="128" fill="none" stroke="#0c4076" stroke-width="4" rx="14"/>
+</svg>
