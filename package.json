@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "icon": "icon.png",
   "author": "Nikola Stankovic",
+  "publisher": "jonnywintech",
   "repository": {
     "type": "git",
     "url": "https://github.com/jonnywintech/seriban-latin-to-cyrilic-vscode-extension.git"
