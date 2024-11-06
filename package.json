@@ -3,8 +3,12 @@
   "displayName": "Serbian Latin to Cyrillic Converter",
   "description": "Converts Serbian Latin text to Cyrillic",
   "version": "0.0.1",
-  "icon": "icon.svg",
+  "icon": "icon.png",
   "author": "Nikola Stankovic",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonnywintech/seriban-latin-to-cyrilic-vscode-extension.git"
+  },
   "engines": {
     "vscode": "^1.95.0"
   },
